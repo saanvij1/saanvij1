@@ -5,8 +5,8 @@
 - 😄 Pronouns: she/her
 
 ### My Past Experience
-- **Software Engineering Intern @ Vanguard:** Developed a web-based dashboard to display real-time application status health metrics for 65 services
-- **Data Analytics Intern @ National Institutes of Health:** Supported science communication efforts by extracting high-value insights and creating visualizations from the health data of 500k+ people
+- **Software Engineering Intern @ Vanguard:** Developed a dashboard to display real-time service availability metrics for 65 services
+- **Data Analytics Intern @ National Institutes of Health:** Extracted insights and created visualizations from the health data of 500k+ people
 - **Bioinformatics Research:** Contributed to the development of a web-based platform for interactive genomic data visualization 
 - **Game Development:** Designed and developed an augmented reality fitness game for kids with autism spectrum disorder 
 
